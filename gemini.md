@@ -1,0 +1,1 @@
+whenever you run python scripts (in new projects), do `uv venv` first, then `source .venv/bin/activate`, then `uv pip install`, then `uv run` for a python script. dont ever use `python example.py`. only uv
